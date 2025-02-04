@@ -1,0 +1,1779 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{ananny2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0e9625a1c28bde224aa1b55446d176f2}{%
+           family={Ananny},
+           familyi={A\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04ddd15bdbd9d7c4572af614218b9b79}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b746e7b30621dc3961a65184640393e7}
+      \strng{fullhash}{b746e7b30621dc3961a65184640393e7}
+      \strng{fullhashraw}{b746e7b30621dc3961a65184640393e7}
+      \strng{bibnamehash}{b746e7b30621dc3961a65184640393e7}
+      \strng{authorbibnamehash}{b746e7b30621dc3961a65184640393e7}
+      \strng{authornamehash}{b746e7b30621dc3961a65184640393e7}
+      \strng{authorfullhash}{b746e7b30621dc3961a65184640393e7}
+      \strng{authorfullhashraw}{b746e7b30621dc3961a65184640393e7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{number}{3}
+      \field{title}{Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{973\bibrangedash 989}
+      \range{pages}{17}
+    \endentry
+    \entry{argyris1978}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8c381383b6b46b15025ebb17c20396ec}{%
+           family={Argyris},
+           familyi={A\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca8040a5b535cb27d8cc8f5b38a54cd9}{%
+           family={Schön},
+           familyi={S\bibinitperiod},
+           given={Donald\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{fullhash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{fullhashraw}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{bibnamehash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{authorbibnamehash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{authornamehash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{authorfullhash}{1bff81a004495c089a8e89adc800f9ea}
+      \strng{authorfullhashraw}{1bff81a004495c089a8e89adc800f9ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Organizational Learning: A Theory of Action Perspective}
+      \field{year}{1978}
+    \endentry
+    \entry{ash2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f4d757536a319be75da0cc96aca1c78c}{%
+           family={Ash},
+           familyi={A\bibinitperiod},
+           given={Joan\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=306af319ea20ce1e8ee16257cf6f7d2d}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bb08e6618a6dbb56fd9040958bdb9ff}{%
+           family={Coiera},
+           familyi={C\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac1a080618b756e550b14ec548535366}
+      \strng{fullhash}{ac1a080618b756e550b14ec548535366}
+      \strng{fullhashraw}{ac1a080618b756e550b14ec548535366}
+      \strng{bibnamehash}{ac1a080618b756e550b14ec548535366}
+      \strng{authorbibnamehash}{ac1a080618b756e550b14ec548535366}
+      \strng{authornamehash}{ac1a080618b756e550b14ec548535366}
+      \strng{authorfullhash}{ac1a080618b756e550b14ec548535366}
+      \strng{authorfullhashraw}{ac1a080618b756e550b14ec548535366}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Medical Informatics Association}
+      \field{number}{2}
+      \field{title}{Some Unintended Consequences of Information Technology in Health Care: The Nature of Patient Care Information System-related Errors}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{104\bibrangedash 112}
+      \range{pages}{9}
+    \endentry
+    \entry{barocas2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb55e045fbd37698b0b60a60b567ab83}{%
+           family={Barocas},
+           familyi={B\bibinitperiod},
+           given={Solon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a507057780ea66f8ee407163b7cec8ff}{%
+           family={Selbst},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{fullhash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{fullhashraw}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{bibnamehash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{authorbibnamehash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{authornamehash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{authorfullhash}{7ed35f883e3f721a6f060536e80d6901}
+      \strng{authorfullhashraw}{7ed35f883e3f721a6f060536e80d6901}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{California Law Review}
+      \field{title}{Big Data's Disparate Impact}
+      \field{volume}{104}
+      \field{year}{2016}
+      \field{pages}{671\bibrangedash 732}
+      \range{pages}{62}
+    \endentry
+    \entry{bates2003}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=f4372f5654491a97cf0b30774d59eb6b}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f58dce010caf721f3e81fc453c86646}{%
+           family={Kuperman},
+           familyi={K\bibinitperiod},
+           given={Gil\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a067b5c8ff50f8dbfe20b23be1c22bc}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbdbfb098bbd7ef1fa7ef1b2442b9d03}{%
+           family={Gandhi},
+           familyi={G\bibinitperiod},
+           given={Tejal},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af60b312d6f77571ad2fc91aae87561b}{%
+           family={Kittler},
+           familyi={K\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=589d45fe5ee70ad0b31e47f849535a75}{%
+           family={Volk},
+           familyi={V\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb1f2c47a7c4e1ac47703120f3b57108}{%
+           family={Spurr},
+           familyi={S\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d91f29b27bea4fe01a7ac938fb5bdd}{%
+           family={Khorasani},
+           familyi={K\bibinitperiod},
+           given={Ramin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efac0889517c89f334049d223b008a3f}{%
+           family={Tanasijevic},
+           familyi={T\bibinitperiod},
+           given={Milenko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a283119f8992583d646d73765f29c51f}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Blackford},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01badf002b05154ec6314e9aa942b5cd}
+      \strng{fullhash}{2eca88bf61f201882e8a9208fa8106ee}
+      \strng{fullhashraw}{2eca88bf61f201882e8a9208fa8106ee}
+      \strng{bibnamehash}{01badf002b05154ec6314e9aa942b5cd}
+      \strng{authorbibnamehash}{01badf002b05154ec6314e9aa942b5cd}
+      \strng{authornamehash}{01badf002b05154ec6314e9aa942b5cd}
+      \strng{authorfullhash}{2eca88bf61f201882e8a9208fa8106ee}
+      \strng{authorfullhashraw}{2eca88bf61f201882e8a9208fa8106ee}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Medical Informatics Association}
+      \field{number}{6}
+      \field{title}{Ten Commandments for Effective Clinical Decision Support: Making the Practice of Evidence-based Medicine a Reality}
+      \field{volume}{10}
+      \field{year}{2003}
+      \field{pages}{523\bibrangedash 530}
+      \range{pages}{8}
+    \endentry
+    \entry{berlin1969}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc81f43284ef1f0a147ae8ab493d56f1}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{fullhash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{fullhashraw}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{bibnamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authorbibnamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authornamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authorfullhash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authorfullhashraw}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Four Essays on Liberty}
+      \field{year}{1969}
+    \endentry
+    \entry{citron2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=030938ad908895410b2de486843abc3b}{%
+           family={Citron},
+           familyi={C\bibinitperiod},
+           given={Danielle\bibnamedelima Keats},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=332ef452a3d2199c82fb484007dc0803}{%
+           family={Pasquale},
+           familyi={P\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34a282de82f2a504a897d01281749f4b}
+      \strng{fullhash}{34a282de82f2a504a897d01281749f4b}
+      \strng{fullhashraw}{34a282de82f2a504a897d01281749f4b}
+      \strng{bibnamehash}{34a282de82f2a504a897d01281749f4b}
+      \strng{authorbibnamehash}{34a282de82f2a504a897d01281749f4b}
+      \strng{authornamehash}{34a282de82f2a504a897d01281749f4b}
+      \strng{authorfullhash}{34a282de82f2a504a897d01281749f4b}
+      \strng{authorfullhashraw}{34a282de82f2a504a897d01281749f4b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Washington Law Review}
+      \field{title}{The Scored Society: Due Process for Automated Predictions}
+      \field{volume}{89}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+    \endentry
+    \entry{dewey1922}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Henry Holt}%
+        {Company}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhashraw}{03b3356eb23d298d57635488371299f9}
+      \strng{bibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorbibnamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhashraw}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Human Nature and Conduct: An Introduction to Social Psychology}
+      \field{year}{1922}
+    \endentry
+    \entry{dignum2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2038389dca7d321b07e82aa80cf4e902}{%
+           family={Dignum},
+           familyi={D\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{fullhash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{fullhashraw}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{bibnamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authorbibnamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authornamehash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authorfullhash}{2038389dca7d321b07e82aa80cf4e902}
+      \strng{authorfullhashraw}{2038389dca7d321b07e82aa80cf4e902}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer Nature}
+      \field{title}{Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way}
+      \field{year}{2019}
+    \endentry
+    \entry{donaldson1995}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=96b7a3ff0d5ce5d6e1a29e8a224618a7}{%
+           family={Donaldson},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3321906fc122fae6e80af500b79a3056}{%
+           family={Preston},
+           familyi={P\bibinitperiod},
+           given={Lee\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{fullhash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{fullhashraw}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{bibnamehash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{authorbibnamehash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{authornamehash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{authorfullhash}{e6fcc8384e1fd12d26be25cc578d6456}
+      \strng{authorfullhashraw}{e6fcc8384e1fd12d26be25cc578d6456}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{1}
+      \field{title}{The Stakeholder Theory of the Corporation: Concepts, Evidence, and Implications}
+      \field{volume}{20}
+      \field{year}{1995}
+      \field{pages}{65\bibrangedash 91}
+      \range{pages}{27}
+    \endentry
+    \entry{eisenhardt1989}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5facd8ebea3a0584dd4ca45f5b7136fb}{%
+           family={Eisenhardt},
+           familyi={E\bibinitperiod},
+           given={Kathleen\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{fullhash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{fullhashraw}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{bibnamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authorbibnamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authornamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authorfullhash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authorfullhashraw}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{Building Theories from Case Study Research}
+      \field{volume}{14}
+      \field{year}{1989}
+      \field{pages}{532\bibrangedash 550}
+      \range{pages}{19}
+    \endentry
+    \entry{floridi2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0d57a43cc17e895c38b6d1656af4ece5}{%
+           family={Floridi},
+           familyi={F\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed233d1eae8340fb483a000e4ff2cfd1}{%
+           family={Cowls},
+           familyi={C\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{fullhash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{fullhashraw}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{bibnamehash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{authorbibnamehash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{authornamehash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{authorfullhash}{2a0c1ac5fe08d55af88541752939baa9}
+      \strng{authorfullhashraw}{2a0c1ac5fe08d55af88541752939baa9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Data Science Review}
+      \field{number}{1}
+      \field{title}{A Unified Framework of Five Principles for AI in Society}
+      \field{volume}{1}
+      \field{year}{2018}
+    \endentry
+    \entry{freeman2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=41cb28e3d0bec15902e9065e4b5a3865}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi Edward},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{fullhash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{fullhashraw}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{bibnamehash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{authorbibnamehash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{authornamehash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{authorfullhash}{41cb28e3d0bec15902e9065e4b5a3865}
+      \strng{authorfullhashraw}{41cb28e3d0bec15902e9065e4b5a3865}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Strategic Management: A Stakeholder Approach}
+      \field{year}{2010}
+    \endentry
+    \entry{friedman2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a1825b8dad676dc7168a3961b5ee251}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Batya},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76acba38852f3958a5bcc8a35b2ee237}{%
+           family={Hendry},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4c4a30e44886a494662ec5d071d7eab}{%
+           family={Borning},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{fullhash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{fullhashraw}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{bibnamehash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{authorbibnamehash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{authornamehash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{authorfullhash}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \strng{authorfullhashraw}{f7289388d02ca9db0687b8c9c5ce3a46}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations and Trends in Human-Computer Interaction}
+      \field{number}{2}
+      \field{title}{A Survey of Value Sensitive Design Methods}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{63\bibrangedash 125}
+      \range{pages}{63}
+    \endentry
+    \entry{friedman2008}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a1825b8dad676dc7168a3961b5ee251}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Batya},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3753b2914d693d52d710cc8d38e67999}{%
+           family={Kahn\bibnamedelima Jr},
+           familyi={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4c4a30e44886a494662ec5d071d7eab}{%
+           family={Borning},
+           familyi={B\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{fullhash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{fullhashraw}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{bibnamehash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{authorbibnamehash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{authornamehash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{authorfullhash}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \strng{authorfullhashraw}{a50503c3d7d6dda22308a3cd3fe465f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Handbook of Information and Computer Ethics}
+      \field{title}{Value Sensitive Design and Information Systems}
+      \field{year}{2008}
+      \field{pages}{69\bibrangedash 101}
+      \range{pages}{33}
+    \endentry
+    \entry{giddens1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db288cbcfcd09a90f94155cbe2edbe09}{%
+           family={Giddens},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{fullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{fullhashraw}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{bibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorbibnamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authornamehash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorfullhash}{db288cbcfcd09a90f94155cbe2edbe09}
+      \strng{authorfullhashraw}{db288cbcfcd09a90f94155cbe2edbe09}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Constitution of Society: Outline of the Theory of Structuration}
+      \field{year}{1984}
+    \endentry
+    \entry{gold2010}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0b9d5fc2fab3cde881e7bece590ecbc8}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5e7a506a2d5dce643b4cd3786e04751}{%
+           family={Seuring},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=668056869c8e4bf19ae0ffcfd9a15de7}{%
+           family={Beske},
+           familyi={B\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{fullhash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{fullhashraw}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{bibnamehash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{authorbibnamehash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{authornamehash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{authorfullhash}{a52906cd38f0feb74c3f74d319d5606d}
+      \strng{authorfullhashraw}{a52906cd38f0feb74c3f74d319d5606d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Corporate Social Responsibility and Environmental Management}
+      \field{number}{4}
+      \field{title}{Sustainable Supply Chain Management and Inter-Organizational Resources: A Literature Review}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{230\bibrangedash 245}
+      \range{pages}{16}
+    \endentry
+    \entry{vandenhoven2013}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d47fb8a4da6d51326a08d0be076fc4b9}{%
+           family={Hoven},
+           familyi={H\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=f1223efc6476fcb23aee1056ebe59867}{%
+           family={Vermaas},
+           familyi={V\bibinitperiod},
+           given={Pieter\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c993a416e7315f64ee7ca0127e6e4a66}{%
+           family={Poel},
+           familyi={P\bibinitperiod},
+           given={Ibo},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{fullhash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{fullhashraw}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{bibnamehash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{authorbibnamehash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{authornamehash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{authorfullhash}{5f1450fe1df1839e96df56c7b37181cc}
+      \strng{authorfullhashraw}{5f1450fe1df1839e96df56c7b37181cc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer}
+      \field{title}{Handbook of Ethics, Values, and Technological Design}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 875}
+      \range{pages}{875}
+    \endentry
+    \entry{ieee2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1acd38c8f1762b6de2391f7567cb084}{%
+           family={{IEEE Global Initiative}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{fullhash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{fullhashraw}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{bibnamehash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{authorbibnamehash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{authornamehash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{authorfullhash}{a1acd38c8f1762b6de2391f7567cb084}
+      \strng{authorfullhashraw}{a1acd38c8f1762b6de2391f7567cb084}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Standards Association}
+      \field{title}{Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems}
+      \field{volume}{1}
+      \field{year}{2019}
+    \endentry
+    \entry{introna2007}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3d0156d3787f0ee042e1fb11e6c6ff65}{%
+           family={Introna},
+           familyi={I\bibinitperiod},
+           given={Lucas\bibnamedelima D.},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{fullhash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{fullhashraw}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{bibnamehash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{authorbibnamehash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{authornamehash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{authorfullhash}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \strng{authorfullhashraw}{3d0156d3787f0ee042e1fb11e6c6ff65}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics and Information Technology}
+      \field{number}{1}
+      \field{title}{Maintaining the reversibility of foldings: Making the ethics (politics) of information technology visible}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{11\bibrangedash 25}
+      \range{pages}{15}
+    \endentry
+    \entry{jasanoff2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=005b05fdd4e175b30317939b620b62a6}{%
+           family={Jasanoff},
+           familyi={J\bibinitperiod},
+           given={Sheila},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{fullhash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{fullhashraw}{005b05fdd4e175b30317939b620b62a6}
+      \strng{bibnamehash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{authorbibnamehash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{authornamehash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{authorfullhash}{005b05fdd4e175b30317939b620b62a6}
+      \strng{authorfullhashraw}{005b05fdd4e175b30317939b620b62a6}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{States of Knowledge: The Co-Production of Science and Social Order}
+      \field{year}{2004}
+    \endentry
+    \entry{johnson2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5c7d803db3938057cf64122f7917f181}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Deborah\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c7d803db3938057cf64122f7917f181}
+      \strng{fullhash}{5c7d803db3938057cf64122f7917f181}
+      \strng{fullhashraw}{5c7d803db3938057cf64122f7917f181}
+      \strng{bibnamehash}{5c7d803db3938057cf64122f7917f181}
+      \strng{authorbibnamehash}{5c7d803db3938057cf64122f7917f181}
+      \strng{authornamehash}{5c7d803db3938057cf64122f7917f181}
+      \strng{authorfullhash}{5c7d803db3938057cf64122f7917f181}
+      \strng{authorfullhashraw}{5c7d803db3938057cf64122f7917f181}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics and Information Technology}
+      \field{number}{4}
+      \field{title}{Computer systems: Moral entities but not moral agents}
+      \field{volume}{8}
+      \field{year}{2005}
+      \field{pages}{195\bibrangedash 204}
+      \range{pages}{10}
+    \endentry
+    \entry{kearns2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=17efa7d29b8763456cc47d49b27ade63}{%
+           family={Kearns},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bb323b3c3d2af68def0dcbde8e6795d}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{fullhash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{fullhashraw}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{bibnamehash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{authorbibnamehash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{authornamehash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{authorfullhash}{cc57c625ef5b4b73a0cd549bec491b06}
+      \strng{authorfullhashraw}{cc57c625ef5b4b73a0cd549bec491b06}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Ethical Algorithm: The Science of Socially Aware Algorithm Design}
+      \field{year}{2019}
+    \endentry
+    \entry{latour2005}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b573a01ce18b77b95f61f008bd20b520}{%
+           family={Latour},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{fullhash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{fullhashraw}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{bibnamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authorbibnamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authornamehash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authorfullhash}{b573a01ce18b77b95f61f008bd20b520}
+      \strng{authorfullhashraw}{b573a01ce18b77b95f61f008bd20b520}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reassembling the Social: An Introduction to Actor-Network-Theory}
+      \field{year}{2005}
+    \endentry
+    \entry{law1992}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed14572b0737dd17f4fc4f7c0e38dff9}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{fullhash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{fullhashraw}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{bibnamehash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{authorbibnamehash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{authornamehash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{authorfullhash}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \strng{authorfullhashraw}{ed14572b0737dd17f4fc4f7c0e38dff9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Systems Practice}
+      \field{number}{4}
+      \field{title}{Notes on the Theory of the Actor-Network: Ordering, Strategy, and Heterogeneity}
+      \field{volume}{5}
+      \field{year}{1992}
+      \field{pages}{379\bibrangedash 393}
+      \range{pages}{15}
+    \endentry
+    \entry{lee2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a104a31f7ad8d02c99a59e646cc5abd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hau\bibnamedelima L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{fullhash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{fullhashraw}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{bibnamehash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{authorbibnamehash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{authornamehash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{authorfullhash}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \strng{authorfullhashraw}{1a104a31f7ad8d02c99a59e646cc5abd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review}
+      \field{number}{10}
+      \field{title}{The Triple-A Supply Chain}
+      \field{volume}{82}
+      \field{year}{2004}
+      \field{pages}{102\bibrangedash 112}
+      \range{pages}{11}
+    \endentry
+    \entry{macintyre1981}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a03b13f0e7e445453545fdc9549992ba}{%
+           family={MacIntyre},
+           familyi={M\bibinitperiod},
+           given={Alasdair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Notre Dame Press}%
+      }
+      \strng{namehash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{fullhash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{fullhashraw}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{bibnamehash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{authorbibnamehash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{authornamehash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{authorfullhash}{a03b13f0e7e445453545fdc9549992ba}
+      \strng{authorfullhashraw}{a03b13f0e7e445453545fdc9549992ba}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{After Virtue: A Study in Moral Theory}
+      \field{year}{1981}
+    \endentry
+    \entry{mackenzie2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=113d0ca769fffb9092cc606131878921}{%
+           family={MacKenzie},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{113d0ca769fffb9092cc606131878921}
+      \strng{fullhash}{113d0ca769fffb9092cc606131878921}
+      \strng{fullhashraw}{113d0ca769fffb9092cc606131878921}
+      \strng{bibnamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authorbibnamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authornamehash}{113d0ca769fffb9092cc606131878921}
+      \strng{authorfullhash}{113d0ca769fffb9092cc606131878921}
+      \strng{authorfullhashraw}{113d0ca769fffb9092cc606131878921}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT Press}
+      \field{title}{An Engine, Not a Camera: How Financial Models Shape Markets}
+      \field{year}{2006}
+    \endentry
+    \entry{march1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86a71029191e03b750fe6ecd1c33e389}{%
+           family={March},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{fullhash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{fullhashraw}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{bibnamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authorbibnamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authornamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authorfullhash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authorfullhashraw}{86a71029191e03b750fe6ecd1c33e389}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Science}
+      \field{number}{1}
+      \field{title}{Exploration and Exploitation in Organizational Learning}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{71\bibrangedash 87}
+      \range{pages}{17}
+    \endentry
+    \entry{matthias2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=07381d1f823d79ccfad2d3769bfa961c}{%
+           family={Matthias},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{fullhash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{fullhashraw}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{bibnamehash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{authorbibnamehash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{authornamehash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{authorfullhash}{07381d1f823d79ccfad2d3769bfa961c}
+      \strng{authorfullhashraw}{07381d1f823d79ccfad2d3769bfa961c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethics and Information Technology}
+      \field{number}{3}
+      \field{title}{The responsibility gap: Ascribing responsibility for the actions of learning automata}
+      \field{volume}{6}
+      \field{year}{2004}
+      \field{pages}{175\bibrangedash 183}
+      \range{pages}{9}
+    \endentry
+    \entry{miles2014}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3b60e8ae43e3460577ee4ef6c39e83c6}{%
+           family={Miles},
+           familyi={M\bibinitperiod},
+           given={Matthew\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59640f98e2361d9db7277f9590dc2892}{%
+           family={Huberman},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi Michael},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f4f93c78a1f571d5a9487a1048a429a}{%
+           family={Saldaña},
+           familyi={S\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{71d3c540f6897b606d69f210fe326276}
+      \strng{fullhash}{71d3c540f6897b606d69f210fe326276}
+      \strng{fullhashraw}{71d3c540f6897b606d69f210fe326276}
+      \strng{bibnamehash}{71d3c540f6897b606d69f210fe326276}
+      \strng{authorbibnamehash}{71d3c540f6897b606d69f210fe326276}
+      \strng{authornamehash}{71d3c540f6897b606d69f210fe326276}
+      \strng{authorfullhash}{71d3c540f6897b606d69f210fe326276}
+      \strng{authorfullhashraw}{71d3c540f6897b606d69f210fe326276}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qualitative Data Analysis: A Methods Sourcebook}
+      \field{year}{2014}
+    \endentry
+    \entry{mitchell1997}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c736da6b2a634a847614ad8d98a4d02}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Ronald\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9aada874c4037a657f4889dd2c00d5ca}{%
+           family={Agle},
+           familyi={A\bibinitperiod},
+           given={Bradley\bibnamedelima R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=887d561642cf511d705f300fc816d1cf}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Donna\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{fullhash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{fullhashraw}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{bibnamehash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{authorbibnamehash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{authornamehash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{authorfullhash}{8990e057f82da84fbd75fbd29551f8a1}
+      \strng{authorfullhashraw}{8990e057f82da84fbd75fbd29551f8a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts}
+      \field{volume}{22}
+      \field{year}{1997}
+      \field{pages}{853\bibrangedash 886}
+      \range{pages}{34}
+    \endentry
+    \entry{nissenbaum2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b87272f33535d7231ff18fbf708063a0}{%
+           family={Nissenbaum},
+           familyi={N\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{fullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \strng{bibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorbibnamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authornamehash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhash}{b87272f33535d7231ff18fbf708063a0}
+      \strng{authorfullhashraw}{b87272f33535d7231ff18fbf708063a0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Privacy in Context: Technology, Policy, and the Integrity of Social Life}
+      \field{year}{2010}
+    \endentry
+    \entry{orlikowski2007}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=553a43ab77892de1ea67f94438725692}{%
+           family={Orlikowski},
+           familyi={O\bibinitperiod},
+           given={Wanda\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{553a43ab77892de1ea67f94438725692}
+      \strng{fullhash}{553a43ab77892de1ea67f94438725692}
+      \strng{fullhashraw}{553a43ab77892de1ea67f94438725692}
+      \strng{bibnamehash}{553a43ab77892de1ea67f94438725692}
+      \strng{authorbibnamehash}{553a43ab77892de1ea67f94438725692}
+      \strng{authornamehash}{553a43ab77892de1ea67f94438725692}
+      \strng{authorfullhash}{553a43ab77892de1ea67f94438725692}
+      \strng{authorfullhashraw}{553a43ab77892de1ea67f94438725692}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Studies}
+      \field{number}{9}
+      \field{title}{Sociomaterial Practices: Exploring Technology at Work}
+      \field{volume}{28}
+      \field{year}{2007}
+      \field{pages}{1435\bibrangedash 1448}
+      \range{pages}{14}
+    \endentry
+    \entry{pagell2009}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5b5de252116e2da5575e60d9abb19a28}{%
+           family={Pagell},
+           familyi={P\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f16cdabaae356b06210ecda3a2bba2df}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zhaohui},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{fullhash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{fullhashraw}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{bibnamehash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{authorbibnamehash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{authornamehash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{authorfullhash}{39bae28bdbbf167c3904a23a659ca628}
+      \strng{authorfullhashraw}{39bae28bdbbf167c3904a23a659ca628}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Supply Chain Management}
+      \field{number}{2}
+      \field{title}{Building a More Complete Theory of Sustainable Supply Chain Management Using Case Studies of 10 Exemplars}
+      \field{volume}{45}
+      \field{year}{2009}
+      \field{pages}{37\bibrangedash 56}
+      \range{pages}{20}
+    \endentry
+    \entry{pasquale2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=332ef452a3d2199c82fb484007dc0803}{%
+           family={Pasquale},
+           familyi={P\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{fullhash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{fullhashraw}{332ef452a3d2199c82fb484007dc0803}
+      \strng{bibnamehash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{authorbibnamehash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{authornamehash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{authorfullhash}{332ef452a3d2199c82fb484007dc0803}
+      \strng{authorfullhashraw}{332ef452a3d2199c82fb484007dc0803}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard University Press}
+      \field{title}{The Black Box Society: The Secret Algorithms That Control Money and Information}
+      \field{year}{2015}
+    \endentry
+    \entry{vandepoel2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c993a416e7315f64ee7ca0127e6e4a66}{%
+           family={Poel},
+           familyi={P\bibinitperiod},
+           given={Ibo},
+           giveni={I\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{fullhash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{fullhashraw}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{bibnamehash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{authorbibnamehash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{authornamehash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{authorfullhash}{c993a416e7315f64ee7ca0127e6e4a66}
+      \strng{authorfullhashraw}{c993a416e7315f64ee7ca0127e6e4a66}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy and Engineering: Reflections on Practice, Principles and Process}
+      \field{title}{Translating Values into Design Requirements}
+      \field{year}{2013}
+      \field{pages}{253\bibrangedash 266}
+      \range{pages}{14}
+    \endentry
+    \entry{selbst2019}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a507057780ea66f8ee407163b7cec8ff}{%
+           family={Selbst},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa83546a4ffeaf9a6253c84cd1f620a1}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Danah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2b40e7a0fdfbdbcf9af2da7c8e59417}{%
+           family={Friedler},
+           familyi={F\bibinitperiod},
+           given={Sorelle\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaeb9142f2e1590450061f637edb6845}{%
+           family={Venkatasubramanian},
+           familyi={V\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70aa4f0b1c06a74398ce5c0db21c1348}{%
+           family={Vertesi},
+           familyi={V\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{b35a175406c2402a1f0a7f788937cebb}
+      \strng{fullhash}{2d8f06a3913378c38ada14cd76da7afb}
+      \strng{fullhashraw}{2d8f06a3913378c38ada14cd76da7afb}
+      \strng{bibnamehash}{b35a175406c2402a1f0a7f788937cebb}
+      \strng{authorbibnamehash}{b35a175406c2402a1f0a7f788937cebb}
+      \strng{authornamehash}{b35a175406c2402a1f0a7f788937cebb}
+      \strng{authorfullhash}{2d8f06a3913378c38ada14cd76da7afb}
+      \strng{authorfullhashraw}{2d8f06a3913378c38ada14cd76da7afb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Conference on Fairness, Accountability, and Transparency}
+      \field{title}{Fairness and Abstraction in Sociotechnical Systems}
+      \field{year}{2019}
+      \field{pages}{59\bibrangedash 68}
+      \range{pages}{10}
+    \endentry
+    \entry{senge1990}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e47cd4bb4992d7c77036784c2005c30}{%
+           family={Senge},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{fullhash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{fullhashraw}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{bibnamehash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{authorbibnamehash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{authornamehash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{authorfullhash}{9e47cd4bb4992d7c77036784c2005c30}
+      \strng{authorfullhashraw}{9e47cd4bb4992d7c77036784c2005c30}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Fifth Discipline: The Art and Practice of the Learning Organization}
+      \field{year}{1990}
+    \endentry
+    \entry{seuring2008}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b5e7a506a2d5dce643b4cd3786e04751}{%
+           family={Seuring},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0dcea0cd627a8d4179152c91c35ef969}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{fullhash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{fullhashraw}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{bibnamehash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{authorbibnamehash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{authornamehash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{authorfullhash}{42c4a5e7b69b11bfaee412ce2e379198}
+      \strng{authorfullhashraw}{42c4a5e7b69b11bfaee412ce2e379198}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{number}{15}
+      \field{title}{From a Literature Review to a Conceptual Framework for Sustainable Supply Chain Management}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{1699\bibrangedash 1710}
+      \range{pages}{12}
+    \endentry
+    \entry{simon2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55354561ed7058861857128d0e4de85a}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55354561ed7058861857128d0e4de85a}
+      \strng{fullhash}{55354561ed7058861857128d0e4de85a}
+      \strng{fullhashraw}{55354561ed7058861857128d0e4de85a}
+      \strng{bibnamehash}{55354561ed7058861857128d0e4de85a}
+      \strng{authorbibnamehash}{55354561ed7058861857128d0e4de85a}
+      \strng{authornamehash}{55354561ed7058861857128d0e4de85a}
+      \strng{authorfullhash}{55354561ed7058861857128d0e4de85a}
+      \strng{authorfullhashraw}{55354561ed7058861857128d0e4de85a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Ethics of Technology: Methods and Approaches}
+      \field{title}{Value-Sensitive Design and Responsible Research and Innovation}
+      \field{year}{2015}
+      \field{pages}{219\bibrangedash 235}
+      \range{pages}{17}
+    \endentry
+    \entry{sittig2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d02d847aa2dd3089b60fd9a353c098d}{%
+           family={Sittig},
+           familyi={S\bibinitperiod},
+           given={Dean\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6bce4ba4927106f5578825f5884282c}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Hardeep},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{fullhash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{fullhashraw}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{bibnamehash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{authorbibnamehash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{authornamehash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{authorfullhash}{f2b07546b6c3d159c5b162467b3a5e07}
+      \strng{authorfullhashraw}{f2b07546b6c3d159c5b162467b3a5e07}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quality and Safety in Health Care}
+      \field{number}{Suppl 3}
+      \field{title}{A New Sociotechnical Model for Studying Health Information Technology in Complex Adaptive Healthcare Systems}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{i68\bibrangedash i74}
+      \range{pages}{-1}
+    \endentry
+    \entry{stake2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6aea72511e53982fb35f72d3ee8d43c3}{%
+           family={Stake},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{fullhash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{fullhashraw}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{bibnamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authorbibnamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authornamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authorfullhash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authorfullhashraw}{6aea72511e53982fb35f72d3ee8d43c3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Sage Handbook of Qualitative Research}
+      \field{title}{Qualitative Case Studies}
+      \field{year}{2005}
+      \field{pages}{443\bibrangedash 466}
+      \range{pages}{24}
+    \endentry
+    \entry{suchman2007}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c697905ecb496fc07bd22acfe437e40d}{%
+           family={Suchman},
+           familyi={S\bibinitperiod},
+           given={Lucy},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{fullhash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{fullhashraw}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{bibnamehash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{authorbibnamehash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{authornamehash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{authorfullhash}{c697905ecb496fc07bd22acfe437e40d}
+      \strng{authorfullhashraw}{c697905ecb496fc07bd22acfe437e40d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge University Press}
+      \field{title}{Human-Machine Reconfigurations: Plans and Situated Actions}
+      \field{year}{2007}
+    \endentry
+    \entry{taylor1989}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0a71f7880e9a2621581cb2a2dd5c36f}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{fullhash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{fullhashraw}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{bibnamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authorbibnamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authornamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authorfullhash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authorfullhashraw}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sources of the Self: The Making of the Modern Identity}
+      \field{year}{1989}
+    \endentry
+    \entry{verbeek2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dead2ffdc66519978d0bb22539fda2a6}{%
+           family={Verbeek},
+           familyi={V\bibinitperiod},
+           given={Peter-Paul},
+           giveni={P\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{fullhash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{fullhashraw}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{bibnamehash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{authorbibnamehash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{authornamehash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{authorfullhash}{dead2ffdc66519978d0bb22539fda2a6}
+      \strng{authorfullhashraw}{dead2ffdc66519978d0bb22539fda2a6}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Chicago Press}
+      \field{title}{Moralizing Technology: Understanding and Designing the Morality of Things}
+      \field{year}{2011}
+    \endentry
+    \entry{wimsatt2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c74267b7a20366e1780d8d036946984}{%
+           family={Wimsatt},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{2c74267b7a20366e1780d8d036946984}
+      \strng{fullhash}{2c74267b7a20366e1780d8d036946984}
+      \strng{fullhashraw}{2c74267b7a20366e1780d8d036946984}
+      \strng{bibnamehash}{2c74267b7a20366e1780d8d036946984}
+      \strng{authorbibnamehash}{2c74267b7a20366e1780d8d036946984}
+      \strng{authornamehash}{2c74267b7a20366e1780d8d036946984}
+      \strng{authorfullhash}{2c74267b7a20366e1780d8d036946984}
+      \strng{authorfullhashraw}{2c74267b7a20366e1780d8d036946984}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality}
+      \field{year}{2007}
+    \endentry
+    \entry{winner1980}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b728fa2bac53879d4d099d1a35ca210}{%
+           family={Winner},
+           familyi={W\bibinitperiod},
+           given={Langdon},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Daedalus}%
+      }
+      \strng{namehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{fullhash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{fullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{bibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorbibnamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authornamehash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorfullhash}{5b728fa2bac53879d4d099d1a35ca210}
+      \strng{authorfullhashraw}{5b728fa2bac53879d4d099d1a35ca210}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1}
+      \field{title}{Do Artifacts Have Politics?}
+      \field{volume}{109}
+      \field{year}{1980}
+      \field{pages}{121\bibrangedash 136}
+      \range{pages}{16}
+    \endentry
+    \entry{yeung2018}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e29b3d8d85c7dcdb690b69673de7d239}{%
+           family={Yeung},
+           familyi={Y\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{fullhash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{fullhashraw}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{bibnamehash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{authorbibnamehash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{authornamehash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{authorfullhash}{e29b3d8d85c7dcdb690b69673de7d239}
+      \strng{authorfullhashraw}{e29b3d8d85c7dcdb690b69673de7d239}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regulation \& Governance}
+      \field{number}{4}
+      \field{title}{Algorithmic regulation: A critical interrogation}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{pages}{505\bibrangedash 523}
+      \range{pages}{19}
+    \endentry
+    \entry{yin2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf7eb9dbb747f641a5083488354145d6}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Robert\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{fullhash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{fullhashraw}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{bibnamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authorbibnamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authornamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authorfullhash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authorfullhashraw}{bf7eb9dbb747f641a5083488354145d6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Case Study Research and Applications: Design and Methods}
+      \field{year}{2018}
+    \endentry
+    \entry{zarsky2016}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd80a95195bbebbfb60fcc1ff0b20969}{%
+           family={Zarsky},
+           familyi={Z\bibinitperiod},
+           given={Tal\bibnamedelima Z.},
+           giveni={T\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{fullhash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{fullhashraw}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{bibnamehash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{authorbibnamehash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{authornamehash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{authorfullhash}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \strng{authorfullhashraw}{fd80a95195bbebbfb60fcc1ff0b20969}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science, Technology, \& Human Values}
+      \field{number}{1}
+      \field{title}{The Trouble with Algorithmic Decisions: An Analytic Road Map to Examine Efficiency and Fairness in Automated and Opaque Decision Making}
+      \field{volume}{41}
+      \field{year}{2016}
+      \field{pages}{118\bibrangedash 132}
+      \range{pages}{15}
+    \endentry
+  \enddatalist
+  \missing{desanctis1994}
+  \missing{giere2006}
+  \missing{manders2011}
+  \missing{mittelstadt2016}
+  \missing{nonaka1995}
+  \missing{pickering1995}
+  \missing{rouse2002}
+  \missing{wenger1998}
+\endrefsection
+\endinput
+

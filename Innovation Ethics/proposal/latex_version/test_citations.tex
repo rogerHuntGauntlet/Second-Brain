@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+
+% Basic layout
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage[british]{babel}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+% Bibliography
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{references.bib}
+
+% Text formatting
+\usepackage{csquotes}
+
+% Hyperlinks
+\usepackage[hidelinks]{hyperref}
+
+\title{Citation Test Document}
+\author{Test Author}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Testing In-Text Citations}
+
+Here we test a standard parenthetical citation \parencite{smith2023}. We can also do an 
+in-text citation where \textcite{march1991} is part of the sentence.
+
+Multiple citations can be combined \parencite{chen2022,johnson2024,kellogg2020}.
+
+\section{Testing Philosophical Citations}
+
+The philosophical framework draws on \textcite{heidegger1977}'s concept of technology, 
+which is further developed in \textcite{feenberg2019}'s critical theory. This connects to 
+what \textcite{zuboff2019} terms ``surveillance capitalism.''
+
+Recent work by \textcite{crawford2021} on AI ethics builds on earlier frameworks 
+\parencite{floridi2019,coeckelbergh2020}.
+
+\section{Testing Citation Formatting}
+
+Testing different citation formats:
+\begin{itemize}
+    \item Standard citation: \parencite{parker2016}
+    \item Author as noun: As \textcite{hansen1999} argues...
+    \item Multiple authors: \parencite{hardt2017,harvey2018,lapavitsas2013}
+    \item With page numbers: \parencite[p.~84]{moore2016}
+    \item With prefix: \parencite[see][]{stiegler2018}
+\end{itemize}
+
+\printbibliography
+
+\end{document} 

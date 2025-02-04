@@ -1,0 +1,28 @@
+---
+title: "The Impact of Platform Optimization-Innovation Alignment on Stakeholder Value and Ethical Outcomes"
+author:
+  - name: "[Author Name]"
+    affiliation: "[University/Institution]"
+    email: "[Email]"
+abstract: |
+  This research investigates how platform organizations balance optimization-driven innovation with stakeholder outcomes, critically examining the distinction between optimization and innovation as fundamentally different modes of organizational change. As platforms increasingly deploy optimization algorithms to maximize performance metrics, they often mischaracterize these initiatives as innovation, creating tensions between stakeholder expectations and operational realities. Through a two-year mixed-methods study combining longitudinal case studies (n=4), social network analysis, and stakeholder interviews (n=120), this research develops new frameworks for evaluating both quantitative and qualitative dimensions of optimization initiatives in platform contexts. The study makes three primary contributions: (1) mathematical models capturing relationships between platform optimization metrics and stakeholder outcomes, (2) validated instruments for measuring qualitative impacts of optimization systems on platform communities, and (3) practical guidelines for ethical optimization implementation based on Value Sensitive Design principles.
+keywords:
+  - platform optimization
+  - innovation alignment
+  - stakeholder value
+  - ethical implementation
+  - optimization systems
+  - responsible innovation
+bibliography: references.bib
+csl: philosophy-and-technology.csl
+documentclass: article
+classoption:
+  - 12pt
+  - a4paper
+geometry:
+  - margin=2.5cm
+header-includes:
+  - \usepackage{times}
+  - \usepackage{setspace}
+  - \doublespacing
+--- 

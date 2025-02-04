@@ -1,0 +1,15 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is 'test_citations.blg'
+[553] biber-MSWIN64:340> INFO - === 
+[776] Biber.pm:420> INFO - Reading 'test_citations.bcf'
+[947] Biber.pm:994> INFO - Found 18 citekeys in bib section 0
+[989] Biber.pm:4463> INFO - Processing section 0
+[1070] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[1190] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1258] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[1526] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1528] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1529] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-GB'
+[1531] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-GB'
+[1582] bbl.pm:676> INFO - Writing 'test_citations.bbl' with encoding 'UTF-8'
+[1598] bbl.pm:779> INFO - Output to test_citations.bbl

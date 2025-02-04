@@ -1,0 +1,1000 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bourdieu1977}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27c902b1ea0de2fe5bde47786424a2aa}{%
+           family={Bourdieu},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{fullhash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{fullhashraw}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{bibnamehash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{authorbibnamehash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{authornamehash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{authorfullhash}{27c902b1ea0de2fe5bde47786424a2aa}
+      \strng{authorfullhashraw}{27c902b1ea0de2fe5bde47786424a2aa}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Outline of a Theory of Practice}
+      \field{year}{1977}
+    \endentry
+    \entry{chen2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3369a318c36f76717bd24c5bfc9e642}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{fullhash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{fullhashraw}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{bibnamehash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{authorbibnamehash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{authornamehash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{authorfullhash}{4b0d5c88ca5440cee33c53568620d8f3}
+      \strng{authorfullhashraw}{4b0d5c88ca5440cee33c53568620d8f3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Science}
+      \field{number}{4}
+      \field{title}{Platform optimization and innovation dynamics}
+      \field{volume}{33}
+      \field{year}{2022}
+      \field{pages}{781\bibrangedash 799}
+      \range{pages}{19}
+    \endentry
+    \entry{coeckelbergh2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dbd05c088d32b6203b42053d2ffd4473}{%
+           family={Coeckelbergh},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{fullhash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{fullhashraw}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{bibnamehash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{authorbibnamehash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{authornamehash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{authorfullhash}{dbd05c088d32b6203b42053d2ffd4473}
+      \strng{authorfullhashraw}{dbd05c088d32b6203b42053d2ffd4473}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI Ethics}
+      \field{year}{2020}
+    \endentry
+    \entry{crawford2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfeadc711239c41784be728867e1a311}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{bfeadc711239c41784be728867e1a311}
+      \strng{fullhash}{bfeadc711239c41784be728867e1a311}
+      \strng{fullhashraw}{bfeadc711239c41784be728867e1a311}
+      \strng{bibnamehash}{bfeadc711239c41784be728867e1a311}
+      \strng{authorbibnamehash}{bfeadc711239c41784be728867e1a311}
+      \strng{authornamehash}{bfeadc711239c41784be728867e1a311}
+      \strng{authorfullhash}{bfeadc711239c41784be728867e1a311}
+      \strng{authorfullhashraw}{bfeadc711239c41784be728867e1a311}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence}
+      \field{year}{2021}
+    \endentry
+    \entry{creswell2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=59fc4628efd7a7bbfbc63c887c449ae2}{%
+           family={Creswell},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61eda4d4b1d75678edebf16263ca188c}{%
+           family={Plano\bibnamedelima Clark},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={V.\bibnamedelimi L.},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{fullhash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{fullhashraw}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{bibnamehash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{authorbibnamehash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{authornamehash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{authorfullhash}{48a430771e2753a0ada8f9c2e5057fee}
+      \strng{authorfullhashraw}{48a430771e2753a0ada8f9c2e5057fee}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Designing and conducting mixed methods research}
+      \field{year}{2017}
+    \endentry
+    \entry{deleuze1992}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae670192594c77fc69903eb3229b4aa0}{%
+           family={Deleuze},
+           familyi={D\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{fullhash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{fullhashraw}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{bibnamehash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{authorbibnamehash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{authornamehash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{authorfullhash}{ae670192594c77fc69903eb3229b4aa0}
+      \strng{authorfullhashraw}{ae670192594c77fc69903eb3229b4aa0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{October}
+      \field{title}{Postscript on the Societies of Control}
+      \field{volume}{59}
+      \field{year}{1992}
+      \field{pages}{3\bibrangedash 7}
+      \range{pages}{5}
+    \endentry
+    \entry{feenberg2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=442adf90657b8b876d060cc4e55d7f93}{%
+           family={Feenberg},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{fullhash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{fullhashraw}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{bibnamehash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{authorbibnamehash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{authornamehash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{authorfullhash}{442adf90657b8b876d060cc4e55d7f93}
+      \strng{authorfullhashraw}{442adf90657b8b876d060cc4e55d7f93}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Postdigital Science and Education}
+      \field{number}{1}
+      \field{title}{Postdigital or Predigital?}
+      \field{volume}{1}
+      \field{year}{2019}
+      \field{pages}{8\bibrangedash 9}
+      \range{pages}{2}
+    \endentry
+    \entry{floridi2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65c253b007113e6695b01df4f4b2f813}{%
+           family={Floridi},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{fullhash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{fullhashraw}{65c253b007113e6695b01df4f4b2f813}
+      \strng{bibnamehash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{authorbibnamehash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{authornamehash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{authorfullhash}{65c253b007113e6695b01df4f4b2f813}
+      \strng{authorfullhashraw}{65c253b007113e6695b01df4f4b2f813}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Ethics of Information}
+      \field{year}{2019}
+    \endentry
+    \entry{foucault1977}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b959dd915a07e0d71a01dd3e540f632a}{%
+           family={Foucault},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pantheon Books}%
+      }
+      \strng{namehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{fullhash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{fullhashraw}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{bibnamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorbibnamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authornamehash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorfullhash}{b959dd915a07e0d71a01dd3e540f632a}
+      \strng{authorfullhashraw}{b959dd915a07e0d71a01dd3e540f632a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discipline and Punish: The Birth of the Prison}
+      \field{year}{1977}
+    \endentry
+    \entry{friedman2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3fee56e105a4b69cdce8287e5d3839d9}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5abdc7911fb905f8cd701f4a6aa97fb1}{%
+           family={Hendry},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{fullhash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{fullhashraw}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{bibnamehash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{authorbibnamehash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{authornamehash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{authorfullhash}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \strng{authorfullhashraw}{1b3c9cbe7b481f3d9c11184a0f1875b7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Value sensitive design: Shaping technology with moral imagination}
+      \field{year}{2019}
+    \endentry
+    \entry{habermas1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1455bc4de0e4cc3c5ce7c46767236bac}{%
+           family={Habermas},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Beacon Press}%
+      }
+      \strng{namehash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{fullhash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{fullhashraw}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{bibnamehash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{authorbibnamehash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{authornamehash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{authorfullhash}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \strng{authorfullhashraw}{1455bc4de0e4cc3c5ce7c46767236bac}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Theory of Communicative Action}
+      \field{year}{1984}
+    \endentry
+    \entry{hansen1999}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce0a2ff7fc1e680cb23360bb8c697cbd}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{fullhash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{fullhashraw}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{bibnamehash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{authorbibnamehash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{authornamehash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{authorfullhash}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \strng{authorfullhashraw}{ce0a2ff7fc1e680cb23360bb8c697cbd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{1}
+      \field{title}{The search-transfer problem: The role of weak ties in sharing knowledge across organization subunits}
+      \field{volume}{44}
+      \field{year}{1999}
+      \field{pages}{82\bibrangedash 111}
+      \range{pages}{30}
+    \endentry
+    \entry{hardt2017}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d5244a9be1ca0eac9110d23de0146408}{%
+           family={Hardt},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a86f243659427a4ab51c65531e67b939}{%
+           family={Negri},
+           familyi={N\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{fullhash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{fullhashraw}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{bibnamehash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{authorbibnamehash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{authornamehash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{authorfullhash}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \strng{authorfullhashraw}{90b5baae95aadd0d8bb8f5205314b9ce}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Assembly}
+      \field{year}{2017}
+    \endentry
+    \entry{harvey2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a28431423693a640b93a6ef6730507c6}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a28431423693a640b93a6ef6730507c6}
+      \strng{fullhash}{a28431423693a640b93a6ef6730507c6}
+      \strng{fullhashraw}{a28431423693a640b93a6ef6730507c6}
+      \strng{bibnamehash}{a28431423693a640b93a6ef6730507c6}
+      \strng{authorbibnamehash}{a28431423693a640b93a6ef6730507c6}
+      \strng{authornamehash}{a28431423693a640b93a6ef6730507c6}
+      \strng{authorfullhash}{a28431423693a640b93a6ef6730507c6}
+      \strng{authorfullhashraw}{a28431423693a640b93a6ef6730507c6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Marx, Capital, and the Madness of Economic Reason}
+      \field{year}{2018}
+    \endentry
+    \entry{heidegger1977}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9eeb9d63661cbdc49141cbc1f5afd99}{%
+           family={Heidegger},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harper \& Row}%
+      }
+      \strng{namehash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{fullhash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{fullhashraw}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{bibnamehash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{authorbibnamehash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{authornamehash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{authorfullhash}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \strng{authorfullhashraw}{f9eeb9d63661cbdc49141cbc1f5afd99}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Question Concerning Technology and Other Essays}
+      \field{year}{1977}
+    \endentry
+    \entry{johnson2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91d9ba804c75816bc371156a21e456aa}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{fullhash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{fullhashraw}{91d9ba804c75816bc371156a21e456aa}
+      \strng{bibnamehash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{authorbibnamehash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{authornamehash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{authorfullhash}{91d9ba804c75816bc371156a21e456aa}
+      \strng{authorfullhashraw}{91d9ba804c75816bc371156a21e456aa}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Journal}
+      \field{number}{1}
+      \field{title}{Algorithmic management in platform organizations}
+      \field{volume}{67}
+      \field{year}{2024}
+      \field{pages}{142\bibrangedash 168}
+      \range{pages}{27}
+    \endentry
+    \entry{kellogg2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b0617c4faecf65607733fbc434ec5dd}{%
+           family={Kellogg},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c6a46f43dc68b217c6dfba7e23ad05d}{%
+           family={Valentine},
+           familyi={V\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bee51a555a5d353e1338ba23d97b613}{%
+           family={Christin},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fe7ccfda62ece617d99e7b64d07a3eed}
+      \strng{fullhash}{566dac93f908c55567979838636bd309}
+      \strng{fullhashraw}{566dac93f908c55567979838636bd309}
+      \strng{bibnamehash}{566dac93f908c55567979838636bd309}
+      \strng{authorbibnamehash}{566dac93f908c55567979838636bd309}
+      \strng{authornamehash}{fe7ccfda62ece617d99e7b64d07a3eed}
+      \strng{authorfullhash}{566dac93f908c55567979838636bd309}
+      \strng{authorfullhashraw}{566dac93f908c55567979838636bd309}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Annals}
+      \field{number}{1}
+      \field{title}{Algorithms at work: The new contested terrain of control}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{pages}{366\bibrangedash 410}
+      \range{pages}{45}
+    \endentry
+    \entry{lapavitsas2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea4173214d17c9ee231343c9c5ad9a5d}{%
+           family={Lapavitsas},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Verso Books}%
+      }
+      \strng{namehash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{fullhash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{fullhashraw}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{bibnamehash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{authorbibnamehash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{authornamehash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{authorfullhash}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \strng{authorfullhashraw}{ea4173214d17c9ee231343c9c5ad9a5d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profiting Without Producing: How Finance Exploits Us All}
+      \field{year}{2013}
+    \endentry
+    \entry{march1991}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8c4bbfb65d430cbd93a12839d75e4c75}{%
+           family={March},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{fullhash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{fullhashraw}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{bibnamehash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{authorbibnamehash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{authornamehash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{authorfullhash}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \strng{authorfullhashraw}{8c4bbfb65d430cbd93a12839d75e4c75}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Science}
+      \field{number}{1}
+      \field{title}{Exploration and exploitation in organizational learning}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{71\bibrangedash 87}
+      \range{pages}{17}
+    \endentry
+    \entry{moore2016}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=661d2b23835c875a67244316a6c7327b}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3c4e73e95138fc8121e1979ba3d7ba7}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90564103c57f5408391d0121876d325d}
+      \strng{fullhash}{90564103c57f5408391d0121876d325d}
+      \strng{fullhashraw}{90564103c57f5408391d0121876d325d}
+      \strng{bibnamehash}{90564103c57f5408391d0121876d325d}
+      \strng{authorbibnamehash}{90564103c57f5408391d0121876d325d}
+      \strng{authornamehash}{90564103c57f5408391d0121876d325d}
+      \strng{authorfullhash}{90564103c57f5408391d0121876d325d}
+      \strng{authorfullhashraw}{90564103c57f5408391d0121876d325d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{number}{11}
+      \field{title}{The Quantified Self: What Counts in the Neoliberal Workplace}
+      \field{volume}{18}
+      \field{year}{2016}
+      \field{pages}{2774\bibrangedash 2792}
+      \range{pages}{19}
+    \endentry
+    \entry{parker2016}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c046dd63876f4ff8fc28cb6ebaaf9de0}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db4c0db092dda958ac28c8ed7686d258}{%
+           family={Van\bibnamedelima Alstyne},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03791d74c6a8c3b59902edf424367f8b}{%
+           family={Choudary},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {WW Norton \& Company}%
+      }
+      \strng{namehash}{c67079b0b939a695444530949787565f}
+      \strng{fullhash}{35fbd889e583df0ce5dd1af696c0e4da}
+      \strng{fullhashraw}{35fbd889e583df0ce5dd1af696c0e4da}
+      \strng{bibnamehash}{35fbd889e583df0ce5dd1af696c0e4da}
+      \strng{authorbibnamehash}{35fbd889e583df0ce5dd1af696c0e4da}
+      \strng{authornamehash}{c67079b0b939a695444530949787565f}
+      \strng{authorfullhash}{35fbd889e583df0ce5dd1af696c0e4da}
+      \strng{authorfullhashraw}{35fbd889e583df0ce5dd1af696c0e4da}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Platform revolution: How networked markets are transforming the economy and how to make them work for you}
+      \field{year}{2016}
+    \endentry
+    \entry{pasquale2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5df51d640d947a4af705184dabe640e}{%
+           family={Pasquale},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{f5df51d640d947a4af705184dabe640e}
+      \strng{fullhash}{f5df51d640d947a4af705184dabe640e}
+      \strng{fullhashraw}{f5df51d640d947a4af705184dabe640e}
+      \strng{bibnamehash}{f5df51d640d947a4af705184dabe640e}
+      \strng{authorbibnamehash}{f5df51d640d947a4af705184dabe640e}
+      \strng{authornamehash}{f5df51d640d947a4af705184dabe640e}
+      \strng{authorfullhash}{f5df51d640d947a4af705184dabe640e}
+      \strng{authorfullhashraw}{f5df51d640d947a4af705184dabe640e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Black Box Society}
+      \field{year}{2015}
+    \endentry
+    \entry{saldana2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6beab23e74e9a602aff3711f0126d5b2}{%
+           family={Saldaña},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{fullhash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{fullhashraw}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{bibnamehash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{authorbibnamehash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{authornamehash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{authorfullhash}{6beab23e74e9a602aff3711f0126d5b2}
+      \strng{authorfullhashraw}{6beab23e74e9a602aff3711f0126d5b2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{title}{The coding manual for qualitative researchers}
+      \field{year}{2021}
+    \endentry
+    \entry{simondon2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b71da6e2c6e3412e505473f8d2f7284}{%
+           family={Simondon},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=b47478977bbee9abfb5094dc8b22e639}{%
+           family={Malaspina},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bc023e755607863964a431be56f5dcd9}{%
+           family={Rogove},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Univocal Publishing}%
+      }
+      \strng{namehash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{fullhash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{fullhashraw}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{bibnamehash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{authorbibnamehash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{authornamehash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{authorfullhash}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{authorfullhashraw}{5b71da6e2c6e3412e505473f8d2f7284}
+      \strng{translatorbibnamehash}{dcc0be861abf462f5f8d8a1d88cab475}
+      \strng{translatornamehash}{dcc0be861abf462f5f8d8a1d88cab475}
+      \strng{translatorfullhash}{dcc0be861abf462f5f8d8a1d88cab475}
+      \strng{translatorfullhashraw}{dcc0be861abf462f5f8d8a1d88cab475}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Original work published 1958}
+      \field{title}{On the Mode of Existence of Technical Objects}
+      \field{year}{2017}
+    \endentry
+    \entry{smith2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d2951e7c5c746f711dc91173afea88b8}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=540cdd13b96ebe8a6352345eccc518c6}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a51ba5d8e7a6dadadec1b86c05a4f5f}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad8ab669afa071532644dc802d08a17b}
+      \strng{fullhash}{47e7b0b6972249a380b24bf33d8eef9a}
+      \strng{fullhashraw}{47e7b0b6972249a380b24bf33d8eef9a}
+      \strng{bibnamehash}{47e7b0b6972249a380b24bf33d8eef9a}
+      \strng{authorbibnamehash}{47e7b0b6972249a380b24bf33d8eef9a}
+      \strng{authornamehash}{ad8ab669afa071532644dc802d08a17b}
+      \strng{authorfullhash}{47e7b0b6972249a380b24bf33d8eef9a}
+      \strng{authorfullhashraw}{47e7b0b6972249a380b24bf33d8eef9a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Technology Management}
+      \field{number}{2}
+      \field{title}{Measuring platform transformation through algorithmic systems}
+      \field{volume}{45}
+      \field{year}{2023}
+      \field{pages}{234\bibrangedash 256}
+      \range{pages}{23}
+    \endentry
+    \entry{srnicek2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0adb18eecc08905f5d46980de3ddd82}{%
+           family={Srnicek},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{fullhash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{fullhashraw}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{bibnamehash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{authorbibnamehash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{authornamehash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{authorfullhash}{b0adb18eecc08905f5d46980de3ddd82}
+      \strng{authorfullhashraw}{b0adb18eecc08905f5d46980de3ddd82}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Platform Capitalism}
+      \field{year}{2017}
+    \endentry
+    \entry{stiegler2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eadc9118992fce02d8c677a9ca43f3c}{%
+           family={Stiegler},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press}%
+      }
+      \strng{namehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{fullhash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{fullhashraw}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{bibnamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorbibnamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authornamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorfullhash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorfullhashraw}{3eadc9118992fce02d8c677a9ca43f3c}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{For a New Critique of Political Economy}
+      \field{year}{2010}
+    \endentry
+    \entry{stiegler2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eadc9118992fce02d8c677a9ca43f3c}{%
+           family={Stiegler},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Open Humanities Press}%
+      }
+      \strng{namehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{fullhash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{fullhashraw}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{bibnamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorbibnamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authornamehash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorfullhash}{3eadc9118992fce02d8c677a9ca43f3c}
+      \strng{authorfullhashraw}{3eadc9118992fce02d8c677a9ca43f3c}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Neganthropocene}
+      \field{year}{2018}
+    \endentry
+    \entry{yin2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3204344a4741f00afcd03e5939f04ad}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={R.\bibnamedelimi K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{fullhash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{fullhashraw}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{bibnamehash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{authorbibnamehash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{authornamehash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{authorfullhash}{c3204344a4741f00afcd03e5939f04ad}
+      \strng{authorfullhashraw}{c3204344a4741f00afcd03e5939f04ad}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Case study research and applications: Design and methods}
+      \field{year}{2018}
+    \endentry
+    \entry{zuboff2019}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bea5f23efe0b3e666c22a6607532516c}{%
+           family={Zuboff},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Affairs}%
+      }
+      \strng{namehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{fullhash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{fullhashraw}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{bibnamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authorbibnamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authornamehash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authorfullhash}{bea5f23efe0b3e666c22a6607532516c}
+      \strng{authorfullhashraw}{bea5f23efe0b3e666c22a6607532516c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Age of Surveillance Capitalism}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
