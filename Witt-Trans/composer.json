@@ -1,0 +1,26 @@
+{
+    "name": "witt-trans/book",
+    "description": "Wittgenstein's Transactions Book Project",
+    "type": "project",
+    "scripts": {
+        "write": [
+            "php scripts/create-section.php",
+            "@check"
+        ],
+        "check": [
+            "@lint-md",
+            "@check-structure",
+            "@check-style",
+            "@update-toc"
+        ],
+        "publish": [
+            "@check",
+            "php scripts/prepare-pr.php"
+        ],
+        "lint-md": "markdownlint **/*.md",
+        "check-structure": "php scripts/check-structure.php",
+        "check-style": "php scripts/style-check.php",
+        "update-toc": "php scripts/update-toc.php",
+        "expand": "php scripts/expand-outline.php"
+    }
+} 

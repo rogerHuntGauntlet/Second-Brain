@@ -1,0 +1,26 @@
+name: Content Checks
+
+on:
+  pull_request:
+    paths:
+      - 'sections/**/*.md'
+      - 'organizing/**/*.md'
+
+jobs:
+  content-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Check Markdown formatting
+        uses: DavidAnson/markdownlint-cli2-action@v5
+        with:
+          globs: "**/*.md"
+          
+      - name: Check spelling
+        uses: crate-ci/typos@master
+        
+      - name: Check for broken links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        
+      # Add more automated checks as needed 

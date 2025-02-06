@@ -1,0 +1,26 @@
+---
+title: "From Language to Transaction – A New Framework"
+author:
+  - name: "[Author Name]"
+    affiliation: "[University/Institution]"
+    email: "[Email]"
+keywords:
+  - language philosophy
+  - transaction theory
+  - communication theory
+  - social exchange
+  - linguistic interaction
+  - value creation
+bibliography: references.bib
+csl: philosophy-and-technology.csl
+documentclass: article
+classoption:
+  - 12pt
+  - a4paper
+geometry:
+  - margin=2.5cm
+header-includes:
+  - \usepackage{times}
+  - \usepackage{setspace}
+  - \doublespacing
+--- 
