@@ -17,9 +17,9 @@ Platform organizations are increasingly mischaracterizing optimization algorithm
 
  1. Introduction
 
-Modern platform organizations frequently market their algorithmic upgrades as "digital innovation" or "AI-driven transformation." While these technologies increase operational efficiency, they generally refine existing processes rather than introduce truly novel possibilities (Smith, Jones, & Brown, 2023). This conflation of optimization and genuine innovation can be misleading for stakeholders, including platform workers, users, and investors, who expect bold technological breakthroughs that depart from established routines.
+Modern platform organizations frequently market their algorithmic upgrades as "digital innovation" or "AI-driven transformation." While these technologies increase operational efficiency, they generally refine existing processes rather than introduce truly novel possibilities. This conflation of optimization and genuine innovation can be misleading for stakeholders, including platform workers, users, and investors, who expect bold technological breakthroughs that depart from established routines.
 
-Beyond concerns of misrepresentation or hype, there is a deeper tension between long-term transformative potential and short-term market results. Ride-sharing companies describe updates to dispatch algorithms as "innovative mobility solutions," even though these refinements mostly reduce wait times and improve vehicle utilization (Chen & Wong, 2022). Content delivery systems present new recommendation engines as revolutionary ways to discover media, but in practice they re-sequence content to boost engagement rather than introduce radically novel features (Johnson, 2024). Although these iterative optimizations yield faster routes or higher completion rates, the promised autonomy and creativity for workers and other users remain elusive.
+Beyond concerns of misrepresentation or hype, there is a deeper tension between long-term transformative potential and short-term market results. Ride-sharing companies describe updates to dispatch algorithms as "innovative mobility solutions," even though these refinements mostly reduce wait times and improve vehicle utilization (Chen & Wong, 2022). Content delivery systems present new recommendation engines as revolutionary ways to discover media, but in practice they re-sequence content to boost engagement rather than introduce radically novel features. Although these iterative optimizations yield faster routes or higher completion rates, the promised autonomy and creativity for workers and other users remain elusive.
 
 Empirical studies underscore this gap between rhetoric and reality. For instance, ride-share drivers consulted about perceived gains in control over their work have reported decreasing autonomy, as dispatch algorithms impose rigid route assignments in pursuit of low wait times and cost efficiency. Content moderators in digital ecosystems similarly reveal that tools heralded as innovative frequently limit their discretion (Kellogg, Valentine, & Christin, 2020). Such experiences highlight a critical question for platforms: how can they pursue design improvements transparently, aligning results with promises of empowerment and meaningful progress?
 
@@ -100,8 +100,6 @@ In this work, the authors outline the principles of Value Sensitive Design, emph
  Hansen, M. T. (1999). The search-transfer problem: The role of weak ties in sharing knowledge across organization subunits. *Administrative Science Quarterly, 44*(1), 82–111.  
 Focusing on the dynamics of knowledge transfer within organizations, this paper highlights the crucial role that weak ties play in diffusing information across different subunits. Hansen's findings illustrate how informal networks and peripheral contacts can significantly contribute to problem-solving and spur innovative practices.
 
- Johnson, P. (2024). Algorithmic management in platform organizations. *Academy of Management Journal, 67*(1), 142–168.  
-This article investigates the impact of algorithmic management on work processes in platform organizations. Johnson critically examines how algorithm-driven decision-making reshapes employee autonomy and managerial practices, offering insights into the double-edged effects of relying on automated systems for organizational control.
 
  Kellogg, K. C., Valentine, M., & Christin, A. (2020). Algorithms at work: The new contested terrain of control. *Academy of Management Annals, 14*(1), 366–410.  
 This paper delves into the contested role of algorithms in modern workplaces. By analyzing how algorithmic systems act as instruments of control, the authors discuss their implications for employee discretion and the organizational balance between efficiency and creative decision-making.
@@ -118,8 +116,7 @@ Serving as an authoritative guide for qualitative researchers, this manual provi
  Shapiro, C., & Varian, H. R. (1998). *Information Rules: A Strategic Guide to the Network Economy*. Harvard Business Press.  
 In this influential text, the authors present a strategic framework for navigating the network economy. They articulate the "rules" of information economics and explain how these principles impact competitive strategy, marking the book as a fundamental primer on the business implications of digital information flows.
 
- Smith, R., Jones, K., & Brown, T. (2023). Measuring platform transformation through algorithmic systems. *Journal of Technology Management, 45*(2), 234–256.  
-This study focuses on developing quantitative measures to assess the transformation of platforms through algorithmic systems. By introducing a diagnostic framework, the authors gauge whether technological enhancements translate into genuine innovation or simply represent optimized and routine modifications, thereby contributing to a nuanced understanding of digital transformation.
+
 
 
 
