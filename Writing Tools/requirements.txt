@@ -1,0 +1,4 @@
+python-docx==0.8.11
+markdown==3.4.1
+beautifulsoup4==4.11.1
+lxml==4.9.2 
