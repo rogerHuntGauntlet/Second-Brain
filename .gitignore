@@ -59,3 +59,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg 
+
+# Witt app folders
+witt-app/
+witt-app-new/
+witt-app-clean/
